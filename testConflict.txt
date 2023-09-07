@@ -1,0 +1,12 @@
+example text:
+npm uses package.json to describe which versions of each dependency you've installed. If you have other people working on the project with you, they can install the original versions of each dependency simply by running npm install. If you're using version history, commit package.json.
+
+npm the code for each dependency in a new node_modules/ folder. When Vite builds your application, it sees imports for 'three' and pulls three.js files automatically from this folder. The node_modules/ folder is used only during development, and shouldn't be uploaded to your web hosting provider or committed to version history.
+
+npm uses package.json to describe which versions of each dependency you've installed. If you have other people working on the project with you, they can install the original versions of each dependency simply by running npm install. If you're using version history, commit package.json.
+
+npm the code for each dependency in a new node_modules/ folder. When Vite builds your application, it sees imports for 'three' and pulls three.js files automatically from this folder. The node_modules/ folder is used only during development, and shouldn't be uploaded to your web hosting provider or committed to version history.
+
+npm uses package.json to describe which versions of each dependency you've installed. If you have other people working on the project with you, they can install the original versions of each dependency simply by running npm install. If you're using version history, commit package.json.
+
+npm the code for each dependency in a new node_modules/ folder. When Vite builds your application, it sees imports for 'three' and pulls three.js files automatically from this folder. The node_modules/ folder is used only during development, and shouldn't be uploaded to your web hosting provider or committed to version history.
